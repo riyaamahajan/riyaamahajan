@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Mahajan</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaamahajan&label=Profile%20views&color=0e75b6&style=flat" alt="riyaamahajan" /> </p>
 
 - 📫 How to reach me **mahajanriya1505@gmail.com**
